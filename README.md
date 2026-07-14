@@ -90,7 +90,7 @@ The pre-trained weights included in this repository correspond to the **Leave-On
 * **`best_sals_model_weights_trained__2.keras`**: Trained on Donors 1 and 3; validated independently on **Donor 2**.
 * **`best_sals_model_weights_trained__3.keras`**: Trained on Donors 1 and 2; validated independently on **Donor 3**.
 
-*The complete single-cell scattering image datasets supporting these validation schemas are permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.21299816).*
+*The complete single-cell scattering image datasets supporting these validation schemas are permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.21299816](https://doi.org/10.5281/zenodo.21299816).*
 
 ---
 
